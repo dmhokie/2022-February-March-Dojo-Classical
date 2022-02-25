@@ -2,202 +2,31 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "NiteliksizAdam"]
-[Black "pandaTT"]
+[White "AfterEightTea"]
+[Black "Frank P Button"]
 [Result "*"]
 [Section "1400-1774"]
-[BlackId "pandaTT#8932"]
-[WhiteElo "1724"]
-[BlackElo "1584"]
+[WhiteId "AfterEightTea#6039"]
+[WhiteElo "1409"]
+[BlackElo "1602"]
 
-{[%SevillaID "2484"]}
+{[%SevillaID "2503"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "Safuya"]
-[Black "talalma"]
+[White "alive50"]
+[Black "dsullivan21"]
 [Result "*"]
 [Section "1400-1774"]
-[WhiteId "Safuya#7702"]
-[WhiteElo "1577"]
-[BlackElo "1716"]
+[WhiteId "alive50"]
+[BlackId "dsully#7010"]
+[WhiteElo "1620"]
+[BlackElo "1449"]
 
-{[%SevillaID "2485"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "hubksrt"]
-[Black "RafaChess19"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "hubskrt#6297"]
-[BlackId "Rafa#5539"]
-[WhiteElo "1715"]
-[BlackElo "1564"]
-
-{[%SevillaID "2486"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "JJDwigs"]
-[Black "iamjameel"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "JJDwigs#2366"]
-[WhiteElo "1562"]
-[BlackElo "1705"]
-
-{[%SevillaID "2487"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "yaR 33"]
-[Black "LJFLJF"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "yaR_33#0033"]
-[WhiteElo "1700"]
-[BlackElo "1550"]
-
-{[%SevillaID "2488"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "headcanon"]
-[Black "ALittleSpaghetti"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "zeedo#2403"]
-[WhiteElo "1541"]
-[BlackElo "1687"]
-
-{[%SevillaID "2489"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "khang421"]
-[Black "darth loulou"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "its trudeau#0521"]
-[BlackId "darth_loulou #8084"]
-[WhiteElo "1680"]
-[BlackElo "1534"]
-
-{[%SevillaID "2490"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "Kirk0536"]
-[Black "strangeQuark6"]
-[Result "*"]
-[Section "1400-1774"]
-[BlackId "strangeQuark6#1821"]
-[WhiteElo "1530"]
-[BlackElo "1678"]
-
-{[%SevillaID "2491"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "snapfirer"]
-[Black "KrasivyyeShakhmaty"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "okrandom#9974"]
-[BlackId "adam_phelan#2905"]
-[WhiteElo "1667"]
-[BlackElo "1520"]
-
-{[%SevillaID "2492"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "olfactory hues"]
-[Black "wocash"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "DonLoco#1062"]
-[BlackId "wocash#0760"]
-[WhiteElo "1520"]
-[BlackElo "1648"]
-
-{[%SevillaID "2493"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "johngdon"]
-[Black "heilinx"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "johngdon #8799"]
-[BlackId "Heilinx#6862"]
-[WhiteElo "1638"]
-[BlackElo "1506"]
-
-{[%SevillaID "2494"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "Wyeth-Miller"]
-[Black "Anthammer"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "Wyeth#7929"]
-[BlackId "Ant_Rundle"]
-[WhiteElo "1500"]
-[BlackElo "1630"]
-
-{[%SevillaID "2495"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "Mirrizzi"]
-[Black "Oskar anton"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "Mirrizzi#7061"]
-[BlackId "Ozzy #7876"]
-[WhiteElo "1630"]
-[BlackElo "1490"]
-
-{[%SevillaID "2496"]}
+{[%SevillaID "2500"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -234,82 +63,6 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "romarioremmy87"]
-[Black "Dan-Jon"]
-[Result "*"]
-[Section "1400-1774"]
-[BlackId "Moka Efti #3195"]
-[WhiteElo "1451"]
-[BlackElo "1627"]
-
-{[%SevillaID "2499"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "alive50"]
-[Black "dsullivan21"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "alive50"]
-[BlackId "dsully#7010"]
-[WhiteElo "1620"]
-[BlackElo "1449"]
-
-{[%SevillaID "2500"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "thorsthunderr"]
-[Black "WhiteDrake"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "thorsthunder#4308"]
-[WhiteElo "1423"]
-[BlackElo "1616"]
-
-{[%SevillaID "2501"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "philbobaggins42"]
-[Black "nordovic"]
-[Result "*"]
-[Section "1400-1774"]
-[BlackId "nordovic#6249"]
-[WhiteElo "1614"]
-[BlackElo "1420"]
-
-{[%SevillaID "2502"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "AfterEightTea"]
-[Black "Frank P Button"]
-[Result "*"]
-[Section "1400-1774"]
-[WhiteId "AfterEightTea#6039"]
-[WhiteElo "1409"]
-[BlackElo "1602"]
-
-{[%SevillaID "2503"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
 [White "gabec208"]
 [Black "Zevy06"]
 [Result "*"]
@@ -319,6 +72,99 @@
 [BlackElo "1409"]
 
 {[%SevillaID "2504"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "headcanon"]
+[Black "ALittleSpaghetti"]
+[Result "1/2-1/2"]
+[Section "1400-1774"]
+[WhiteId "zeedo#2403"]
+[WhiteElo "1541"]
+[BlackElo "1687"]
+
+{[%SevillaID "2489"]}
+1/2-1/2
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "hubksrt"]
+[Black "RafaChess19"]
+[Result "1-0"]
+[Section "1400-1774"]
+[WhiteId "hubskrt#6297"]
+[BlackId "Rafa#5539"]
+[WhiteElo "1715"]
+[BlackElo "1564"]
+
+{[%SevillaID "2486"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "JJDwigs"]
+[Black "iamjameel"]
+[Result "1-0"]
+[Section "1400-1774"]
+[WhiteId "JJDwigs#2366"]
+[WhiteElo "1562"]
+[BlackElo "1705"]
+
+{[%SevillaID "2487"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "johngdon"]
+[Black "heilinx"]
+[Result "0-1"]
+[Section "1400-1774"]
+[WhiteId "johngdon #8799"]
+[BlackId "Heilinx#6862"]
+[WhiteElo "1638"]
+[BlackElo "1506"]
+
+{[%SevillaID "2494"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "khang421"]
+[Black "darth loulou"]
+[Result "*"]
+[Section "1400-1774"]
+[WhiteId "its trudeau#0521"]
+[BlackId "darth_loulou #8084"]
+[WhiteElo "1680"]
+[BlackElo "1534"]
+
+{[%SevillaID "2490"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "Kirk0536"]
+[Black "strangeQuark6"]
+[Result "*"]
+[Section "1400-1774"]
+[BlackId "strangeQuark6#1821"]
+[WhiteElo "1530"]
+[BlackElo "1678"]
+
+{[%SevillaID "2491"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -341,17 +187,63 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "sl0wth1nk3r"]
-[Black "picaveli"]
+[White "Mirrizzi"]
+[Black "Oskar anton"]
 [Result "*"]
 [Section "1400-1774"]
-[WhiteId "sl0wth1nk3r#2334"]
-[BlackId "pshirak#3340"]
-[WhiteElo "1588"]
-[BlackElo "1405"]
+[WhiteId "Mirrizzi#7061"]
+[BlackId "Ozzy #7876"]
+[WhiteElo "1630"]
+[BlackElo "1490"]
 
-{[%SevillaID "2506"]}
+{[%SevillaID "2496"]}
 *
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "NiteliksizAdam"]
+[Black "pandaTT"]
+[Result "*"]
+[Section "1400-1774"]
+[BlackId "pandaTT#8932"]
+[WhiteElo "1724"]
+[BlackElo "1584"]
+
+{[%SevillaID "2484"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "olfactory hues"]
+[Black "wocash"]
+[Result "1-0"]
+[Section "1400-1774"]
+[WhiteId "DonLoco#1062"]
+[BlackId "wocash#0760"]
+[WhiteElo "1520"]
+[BlackElo "1648"]
+
+{[%SevillaID "2493"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "philbobaggins42"]
+[Black "nordovic"]
+[Result "1-0"]
+[Section "1400-1774"]
+[BlackId "nordovic#6249"]
+[WhiteElo "1614"]
+[BlackElo "1420"]
+
+{[%SevillaID "2502"]}
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -368,5 +260,113 @@
 
 {[%SevillaID "2507"]}
 *
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "romarioremmy87"]
+[Black "Dan-Jon"]
+[Result "0-1"]
+[Section "1400-1774"]
+[BlackId "Moka Efti #3195"]
+[WhiteElo "1451"]
+[BlackElo "1627"]
+
+{[%SevillaID "2499"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "Safuya"]
+[Black "talalma"]
+[Result "*"]
+[Section "1400-1774"]
+[WhiteId "Safuya#7702"]
+[WhiteElo "1577"]
+[BlackElo "1716"]
+
+{[%SevillaID "2485"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "sl0wth1nk3r"]
+[Black "picaveli"]
+[Result "1-0"]
+[Section "1400-1774"]
+[WhiteId "sl0wth1nk3r#2334"]
+[BlackId "pshirak#3340"]
+[WhiteElo "1588"]
+[BlackElo "1405"]
+
+{[%SevillaID "2506"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "snapfirer"]
+[Black "KrasivyyeShakhmaty"]
+[Result "*"]
+[Section "1400-1774"]
+[WhiteId "okrandom#9974"]
+[BlackId "adam_phelan#2905"]
+[WhiteElo "1667"]
+[BlackElo "1520"]
+
+{[%SevillaID "2492"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "thorsthunderr"]
+[Black "WhiteDrake"]
+[Result "*"]
+[Section "1400-1774"]
+[WhiteId "thorsthunder#4308"]
+[WhiteElo "1423"]
+[BlackElo "1616"]
+
+{[%SevillaID "2501"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "Wyeth-Miller"]
+[Black "Anthammer"]
+[Result "*"]
+[Section "1400-1774"]
+[WhiteId "Wyeth#7929"]
+[BlackId "Ant_Rundle"]
+[WhiteElo "1500"]
+[BlackElo "1630"]
+
+{[%SevillaID "2495"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "yaR 33"]
+[Black "LJFLJF"]
+[Result "0-1"]
+[Section "1400-1774"]
+[WhiteId "yaR_33#0033"]
+[WhiteElo "1700"]
+[BlackElo "1550"]
+
+{[%SevillaID "2488"]}
+0-1
 
 

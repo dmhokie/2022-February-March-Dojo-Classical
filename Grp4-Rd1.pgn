@@ -2,14 +2,16 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "vsd328"]
-[Black "KingSideInvasion"]
+[White "davalb"]
+[Black "SpeedRunth"]
 [Result "*"]
 [Section "1775+"]
-[WhiteElo "2154"]
-[BlackElo "1958"]
+[WhiteId "Ding Liren #8638"]
+[BlackId "el_Derty"]
+[WhiteElo "1969"]
+[BlackElo "1800"]
 
-{[%SevillaID "2508"]}
+{[%SevillaID "2514"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -18,7 +20,7 @@
 [Round "1"]
 [White "iridescentmollusc"]
 [Black "gustafsson student"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "LouisBoBo#4702"]
 [BlackId "legion#4516"]
@@ -26,7 +28,37 @@
 [BlackElo "2150"]
 
 {[%SevillaID "2509"]}
-*
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "MajorBatata"]
+[Black "KF 91"]
+[Result "1-0"]
+[Section "1775+"]
+[BlackId "KF_91"]
+[WhiteElo "2012"]
+[BlackElo "1822"]
+
+{[%SevillaID "2512"]}
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "musiclife"]
+[Black "wkxz"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "AngelOfMusic#4626"]
+[WhiteElo "1800"]
+[BlackElo "1972"]
+
+{[%SevillaID "2513"]}
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -50,59 +82,27 @@
 [Round "1"]
 [White "sweetiepawn"]
 [Black "lessixvii"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [BlackId "sVnteen#5771"]
 [WhiteElo "1828"]
 [BlackElo "2019"]
 
 {[%SevillaID "2511"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "MajorBatata"]
-[Black "KF 91"]
-[Result "*"]
+[White "vsd328"]
+[Black "KingSideInvasion"]
+[Result "0-1"]
 [Section "1775+"]
-[BlackId "KF_91"]
-[WhiteElo "2012"]
-[BlackElo "1822"]
+[WhiteElo "2154"]
+[BlackElo "1958"]
 
-{[%SevillaID "2512"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "musiclife"]
-[Black "wkxz"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "AngelOfMusic#4626"]
-[WhiteElo "1800"]
-[BlackElo "1972"]
-
-{[%SevillaID "2513"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "davalb"]
-[Black "SpeedRunth"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Ding Liren #8638"]
-[BlackId "el_Derty"]
-[WhiteElo "1969"]
-[BlackElo "1800"]
-
-{[%SevillaID "2514"]}
-*
+{[%SevillaID "2508"]}
+0-1
 
 

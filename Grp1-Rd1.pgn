@@ -2,80 +2,16 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "Twan709"]
-[Black "yaR 33"]
+[White "1Elliot"]
+[Black "FreddyPatzer"]
 [Result "*"]
 [Section "Verified"]
-[WhiteId "Twan709#3245"]
-[BlackId "yaR_33#0033"]
-[WhiteElo "2115"]
-[BlackElo "1700"]
+[WhiteId "ElliotP#2014"]
+[BlackId "FreddyPatzer#4658"]
+[WhiteElo "1741"]
+[BlackElo "1316"]
 
-{[%SevillaID "2452"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "ssoroka78"]
-[Black "mfabian55"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "ssoroka#5777"]
-[BlackId "mfabian55#8675"]
-[WhiteElo "1675"]
-[BlackElo "2086"]
-
-{[%SevillaID "2453"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "Renek13"]
-[Black "nargaef"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "Renek#6846"]
-[BlackId "morphyfanLL#8385"]
-[WhiteElo "2026"]
-[BlackElo "1629"]
-
-{[%SevillaID "2454"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "Pauli3141"]
-[Black "Tank Cartier"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "Pauli#4131"]
-[BlackId "Cartier tank#3152"]
-[WhiteElo "1617"]
-[BlackElo "1895"]
-
-{[%SevillaID "2455"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.21"]
-[Round "1"]
-[White "lootikfc"]
-[Black "Seth Lichtenstein"]
-[Result "*"]
-[Section "Verified"]
-[WhiteId "lootikfc#0672"]
-[BlackId "Seth_Lichtenstein#2638"]
-[WhiteElo "1862"]
-[BlackElo "1564"]
-
-{[%SevillaID "2456"]}
+{[%SevillaID "2462"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -84,7 +20,7 @@
 [Round "1"]
 [White "AFMhughes"]
 [Black "backrankbrawler"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "henricum#0834"]
 [BlackId "backrankbrawler#4978"]
@@ -92,6 +28,22 @@
 [BlackElo "1859"]
 
 {[%SevillaID "2457"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "hluebb"]
+[Black "sergey carjacking"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "Namor#3094"]
+[BlackId "sjwsparks #5276"]
+[WhiteElo "1360"]
+[BlackElo "1756"]
+
+{[%SevillaID "2461"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -116,13 +68,95 @@
 [Round "1"]
 [White "kyle b81"]
 [Black "falk312"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [BlackId "falk#8401"]
 [WhiteElo "1430"]
 [BlackElo "1831"]
 
 {[%SevillaID "2459"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.02.24"] [Round "?"] [White
+"kyle_b81"] [Black "falk312"] [Result "1/2-1/2"] [ECO "B90"] [WhiteElo "1399"]
+[BlackElo "1832"] [TimeControl "2700+30"] [EndTime "8:54:38 PST"] [Termination
+"Game drawn by repetition"]  1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6
+6. Rg1 e5 7. Nb3 h5 8. h3 Be6 9. Be3 Nbd7 10. Qd2 Rc8 11. O-O-O b5 12. f4 Nb6
+13. Kb1 Be7 14. a3 Bc4 15. g4 Bxf1 16. Rdxf1 Nc4 17. Qe2 Nxa3+ 18. Ka2 Nc4 19.
+g5 Nd7 20. Nd5 Nxe3 21. Qxe3 Rxc2 22. f5 Rc4 23. f6 gxf6 24. gxf6 Nxf6 25. Nxf6+
+Bxf6 26. Qf3 Be7 27. Qxf7+ Kd7 28. Rc1 Rxc1 29. Rxc1 h4 30. Qf5+ Ke8 31. Qg6+
+Kd7 32. Qf5+ Ke8 33. Qg6+ Kd7 34. Qf5+ 1/2-1/2 
+1/2-1/2
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "lootikfc"]
+[Black "Seth Lichtenstein"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "lootikfc#0672"]
+[BlackId "Seth_Lichtenstein#2638"]
+[WhiteElo "1862"]
+[BlackElo "1564"]
+
+{[%SevillaID "2456"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "Pauli3141"]
+[Black "Tank Cartier"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "Pauli#4131"]
+[BlackId "Cartier tank#3152"]
+[WhiteElo "1617"]
+[BlackElo "1895"]
+
+{[%SevillaID "2455"]}
+*
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "Renek13"]
+[Black "nargaef"]
+[Result "1-0"]
+[Section "Verified"]
+[WhiteId "Renek#6846"]
+[BlackId "morphyfanLL#8385"]
+[WhiteElo "2026"]
+[BlackElo "1629"]
+
+{[%SevillaID "2454"]}
+[Event "Live Chess"] [Site "Chess.com"] [Date "2022.02.24"] [Round "?"] [White
+"Renek13"] [Black "nargaef"] [Result "1-0"] [ECO "D10"] [WhiteElo "2046"]
+[BlackElo "1655"] [TimeControl "2700+30"] [EndTime "20:23:00 PST"] [Termination
+"Renek13 won by resignation"]  1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 dxc4 5. Bxc4
+Bf5 6. Qb3 e6 7. Qxb7 Nbd7 8. Qxc6 Bb4 9. Qa4 Bxc3+ 10. bxc3 O-O 11. Be2 Ne4 12.
+c4 Nc3 13. Qa3 Nb1 14. Qa4 Rb8 15. Nf3 Nc3 16. Qa6 Nc5 17. Qa3 N5e4 18. Bd2 Rb1+
+19. Rxb1 Nxb1 20. Qb4 Qc7 21. Qa5 Qxa5 22. Bxa5 Nec3 23. Bxc3 Nxc3 24. Kd2 Nxa2
+25. Ra1 Nb4 26. Rxa7 Rb8 27. Ne5 f6 28. Nd7 Rd8 29. Kc3 Nc6 30. Rc7 Na5 31. Kb4
+Ra8 32. Bf3 1-0 
+1-0
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.21"]
+[Round "1"]
+[White "Ricker"]
+[Black "BCGolem"]
+[Result "*"]
+[Section "Verified"]
+[WhiteId "rickerw #5570"]
+[BlackId "BCGolem#9594"]
+[WhiteElo "1113"]
+[BlackElo "1731"]
+
+{[%SevillaID "2463"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
@@ -145,48 +179,153 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "hluebb"]
-[Black "sergey carjacking"]
+[White "ssoroka78"]
+[Black "mfabian55"]
 [Result "*"]
 [Section "Verified"]
-[WhiteId "Namor#3094"]
-[BlackId "sjwsparks #5276"]
-[WhiteElo "1360"]
-[BlackElo "1756"]
+[WhiteId "ssoroka#5777"]
+[BlackId "mfabian55#8675"]
+[WhiteElo "1675"]
+[BlackElo "2086"]
 
-{[%SevillaID "2461"]}
+{[%SevillaID "2453"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "1Elliot"]
-[Black "FreddyPatzer"]
+[White "Twan709"]
+[Black "yaR 33"]
 [Result "*"]
 [Section "Verified"]
-[WhiteId "ElliotP#2014"]
-[BlackId "FreddyPatzer#4658"]
-[WhiteElo "1741"]
-[BlackElo "1316"]
+[WhiteId "Twan709#3245"]
+[BlackId "yaR_33#0033"]
+[WhiteElo "2115"]
+[BlackElo "1700"]
 
-{[%SevillaID "2462"]}
+{[%SevillaID "2452"]}
 *
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "Ricker"]
-[Black "BCGolem"]
-[Result "*"]
+[White "JakeLizarraga"]
+[Black "joeldick"]
+[Result "0-1"]
 [Section "Verified"]
-[WhiteId "rickerw #5570"]
-[BlackId "BCGolem#9594"]
-[WhiteElo "1113"]
-[BlackElo "1731"]
+[WhiteId "JakeTheGamerPlays#4825"]
+[BlackId "joel#7861"]
+[WhiteElo "1589"]
+[BlackElo "1741"]
 
-{[%SevillaID "2463"]}
-*
+{[%SevillaID "2515"]}
+[Event "Rated Classical game"] [Site "https://lichess.org/VP53ImPi"] [Date
+"2022.02.24"] [White "JakeLizarraga"] [Black "joeldic"] [Result "0-1"] [WhiteElo
+"1840"] [BlackElo "1500"] [TimeControl "2700+30"] [Termination "Normal"]
+[UTCDate "2022.02.24"] [UTCTime "04:35:00"] [Variant "Standard"] [ECO "C29"]
+[Opening "Vienna Game: Heyde Variation"] [Annotator
+"https://lichess.org/@/joeldic"]  1. e4 { [%clk 0:45:00] } 1... e5 { [%clk
+0:45:00] } 2. Nc3 { [%clk 0:45:29] } 2... Nf6 { [%clk 0:45:24] } 3. f4 { [%clk
+0:45:57] } 3... d5 { [%clk 0:45:39] } (3... exf4 4. e5) 4. fxe5 { [%clk 0:46:26]
+} (4. d3) 4... Nxe4 { [%clk 0:46:09] } 5. Qf3 { See Tartakower, 500 Master
+Games, game 210, Hromadka - Schreiber Munich 1936 } { [%clk 0:46:54] } (5. Nf3) 
+(5. d4 f6 (5... f5 6. Qf3))  (5. d3 Qh4+ (5... Nxc3 6. bxc3 d4 7. Nf3 c5) 6. g3
+Nxg3 7. Nf3 Qh5 8. Rg1 Nxf1 9. Rxf1 Bb4 10. Bf4 Nc6 11. a3 Bxc3+ 12. bxc3 O-O)
+5... f5 { JakeLizarraga - waddlewaddle1234, 0-1, -, https://lichess.org/cJMnhOLR
+} { [%clk 0:45:20] } (5... Nxc3 6. dxc3)  (5... Nc6 6. Nxe4 (6. Bb5 Nxc3 7. bxc3
+Qh4+ 8. g3 Qe4+ 9. Qxe4 dxe4 10. Bxc6+ bxc6) 6... Nd4 7. Qc3 (7. Qd3 dxe4 8.
+Qxe4 Bf5) 7... dxe4) 6. d4 { Allows the Knight to stay at e4. Better would be to
+fend off the knight as soon as possible with 6.d3. } { [%clk 0:45:21] } (6. d3
+Nxc3 7. bxc3 d4 (7... Be7 8. d4)  (7... Nc6 8. d4) 8. Qg3 { The classical
+response. } (8. c4 Nc6 (8... Bb4+ 9. Bd2 Bxd2+ 10. Kxd2 Qg5+) 9. Be2 Nxe5 10.
+Qg3 Bb4+ 11. Bd2 Bxd2+ 12. Kxd2 Qe7 13. a4 a6 14. Nf3 Nc6 15. Rhb1 O-O 16. Rb3
+f4 17. Qf2 Bg4 18. h3 Bh5 19. g4 fxg3 20. Qxg3 Qe3+ 21. Kd1 Rae8 22. Ng1 Bxe2+
+23. Nxe2 Qxe2+ 24. Kc1 Rf1+ 25. Kb2 Qxc2+ 26. Kxc2 Re2# { JakeLizarraga -
+waddlewaddle1234, 0-1, -, https://lichess.org/cJMnhOLR })  (8. cxd4 Qxd4 9. Rb1
+Qxe5+) (8. Be2 Nc6 9. Bf4 dxc3 10. Qf2)  (8. Qf4 Nc6 9. Nf3)  (8. Qf2 dxc3 9.
+d4) 8... Nc6 9. Be2 { [%cal Gd8d5] } 9... Qd5 (9... Be6 10. Rb1 (10. c4 Bb4+ 11.
+Kf2)) 10. Bf4 (10. Bf3 Qxe5+ (10... Qc5 11. Ne2 Nxe5 12. O-O (12. Bh5+ g6 13.
+cxd4 Qd5 14. dxe5 gxh5) (12. cxd4 Nxf3+)) 11. Qxe5+ Nxe5 12. cxd4 Nxf3+ 13.
+Nxf3) 10... Be6 11. c4 Bb4+ 12. Kf2 Qd7 13. Rb1 O-O-O 14. Bf3 Bc5 15. Rb5 b6
+(15... Bb6 16. c5 a6 (16... Nxe5 { [%cal Gd7b5] } 17. cxb6 Nxf3 18. bxa7) 17.
+cxb6 axb5 18. bxc7) 16. Ne2 (16. Rxc5 bxc5 17. Ne2 Rhg8 18. h4 Rde8 19. Rb1 a6
+20. Nc1) 16... a6 (16... Be7 17. h4 Rhg8 18. Rhb1) 17. Rxc5 bxc5 18. Rb1 Rdg8
+(18... Rhg8 19. h4) 19. h4 Nd8 (19... g5 20. hxg5 h6 21. g6 h5) 20. Bg5 Qa4 21.
+Rb2 Nf7 (21... Qa3 22. Bc1 (22. Rb3 Qxa2 23. Bxd8 Kxd8 24. Bd5 Bxd5 25. Qg5+ Kc8
+26. Qxf5+ Kd8 27. cxd5 Rf8 28. Rb8+ Ke7 29. d6+ cxd6 30. exd6+ Kxd6 31. Rxf8))
+22. Nf4 Qe8 23. Nxe6 Qxe6 24. Bd5 Qg6 25. e6 Nd6 26. Qe5 (26. Qf3) 26... Re8 27.
+Rb6 cxb6 28. Qxd6 Qxe6 (28... Rxe6 29. Bxe6+ Kb7 30. Qd7+ Kb8 31. Bf4+ Ka8 32.
+Bd5+ Qc6 33. Bxc6#))  (6. exf6 Nxf6)  (6. Bb5+ c6 7. Be2)  (6. Nge2 Nc6 7. d4
+Nb4 { [%csl Gc2] } 8. Kd1 c5) 6... Nc6 { [%clk 0:40:27] } (6... Be7)  (6... Bb4
+7. a3 Bxc3+ 8. bxc3) 7. Bb5 { [%clk 0:45:29] } 7... Bb4 { [%clk 0:40:09] } 8.
+Ne2 { [%clk 0:45:17] } (8. Bd2 Nxd2 9. Kxd2 O-O 10. Ne2 Nxd4 11. Nxd4 c5 (11...
+a6 12. Be2 c5 13. Nb3 d4) 12. Ne2 d4) 8... O-O { [%clk 0:39:17] } 9. Bxc6 { A
+mistake. Giving up the light-colored bishop eliminates any chances of getting an
+attack on the a2-g8 diagonal, and the pawn at c6 strengthens d5, and is anyways
+not weak because it's not on a semi-open file. It also defends the b5 square
+from the white knight. Finally, it also gives black a semi-open b-file to work
+with. Overall, the disadvantage of the doubled pawns, not really weak in this
+case, is more than adequately compensated for with all these benefits for black.
+} { [%cal Gb7c6] [%clk 0:45:35] } (9. O-O) 9... bxc6 { [%clk 0:39:26] } 10. O-O
+{ [%clk 0:45:59] } 10... Ba6 { The advantage of black's more active pieces (two
+bishops, strong knight on the outpost) are already becoming apparent. } { [%clk
+0:32:55] } (10... Qh4 11. g3 Qd8 { [%csl Gg3] } (11... Qe7 12. Nxe4 fxe4 13.
+Qxf8+ Qxf8 14. Rxf8+ Bxf8)) 11. Nd1 { Somewhat inexplicable. Perhaps black
+intended 12.c3. } { [%clk 0:45:59] } (11. Nxe4 fxe4 12. Qxf8 + (12. Qg4 Rxf1+
+13. Kxf1 Qe8 14. c3 h5) 12... Bxf8)  (11. a3 Nxc3 12. bxc3 Bxe2 13. Qxe2 Bxc3) 
+(11. Re1 Bxe2 12. Rxe2 Bxc3 13. bxc3) 11... Bd2 { I did also consider 11...Qh4,
+with some ideas of ...Qxd4+ at some point, but I didn't see a way forward after
+12.g3. I was happy to have found this move. The main idea is 12.Bxd2 Nxd2 with
+an exchange-winning fork. The lack of mobility of both the white queen and rook
+make this threat very hard to counter. } { [%clk 0:27:47] } (11... Qh4 { [%cal
+Gh4d4] } 12. g3 Qh3 (12... Qg4 13. Qxg4 fxg4 14. Rxf8+ Rxf8 15. Nf4 g5 16. Nd3
+Bxd3 17. cxd3 Nd2 18. Bxd2 Bxd2)) 12. Nf2 { I did not see this defense and was
+momentarily surprised. But I realized that White's queen's lack of mobility
+proves fatal regardless. } { [%clk 0:43:41] } (12. Rf2 Nxf2)  (12. Qh5 Bxc1 13.
+Rxc1 g6 14. Qf3 Nd2) 12... Ng5 { [%clk 0:25:44] } 13. Qg3 { [%clk 0:37:03] }
+(13. Qh5 g6 14. Qh4 Bxe2 15. Bxd2 Nf3+ 16. gxf3 Qxh4) 13... Bxc1 { [%clk
+0:25:21] } (13... Bxe2 14. Bxd2 Bxf1 (14... f4 15. Bxf4) 15. Bxg5) 14. Nxc1 {
+[%clk 0:37:19] } (14. Rfxc1 Bxe2) 14... Bxf1 { [%clk 0:25:48] } 15. Kxf1 { [%clk
+0:37:49] } 15... Ne4 { After all that, and black STILL gets to keep this
+wonderful outpost for his knight. I couldn't be more pleased. } { [%clk 0:25:42]
+} 16. Qh3 { [%clk 0:36:58] } (16. Nxe4 fxe4+) 16... Qg5 { Intending to come to
+d2, gaining control of the second rank, and attacking all the key squares: c2,
+d4, f2, d1... } { [%clk 0:25:07] } 17. Nb3 { Apparently to stop 17.Qd2. Now I
+know that I have to make the Nb3 a target, but the truth is, at this point,
+17.Qf4 would have already worked, but that idea (pinning the hard-to-defend
+knight on f2) didn't occur to me until a couple of moves later. at this point,
+my first thought went to harassing the knight on b3 and fulfilling my Qd2 idea.
+} { [%clk 0:36:30] } (17. Ne2 Qd2 18. Qd3) (17. Ncd3 Qd2 18. Rd1 Qxc2) 17... a5
+{ [%clk 0:22:09] } 18. a4 { I knew he would counter 17...a5 with 18a4, and I was
+happy to make him weaken the b3 and b4 squares. } { [%clk 0:36:22] } 18... Rab8
+{ [%clk 0:21:48] } 19. Rd1 { [%clk 0:35:19] } (19. Nxa5 Rxb2) 19... Qf4 { Here's
+where I realized that I had this Qf4 idea, pinning the knight. The knight is
+surprisingly hard to defend. But you wouldn't suspect such a knight to be so
+hard to defend, and that's why Qf4 was somewhat hard to find. } { [%clk 0:20:12]
+} 20. Qf3 { [%clk 0:32:23] } 20... Qxh2 { Now the g3 square is weak too. White's
+kingside must fall. } { [%clk 0:20:19] } 21. Ke2 { [%clk 0:29:39] } 21... Rb4 {
+At this point, it didn't occur to me any ideas of ...Ng5, but it wins the pawn
+on g2. Instead, I'm thinking about undermining d4 so I can get rid of the e5
+pawn, which is white's only remaining counter-chance, as well as cutting off
+escape squares from white's king so that after Ng3+, Kd2 looks less attractive.
+} { [%clk 0:16:47] } (21... Ng5 22. Rh1 (22. Qe3 Qxg2) (22. Qd3 Qxg2)  (22. Qc3
+Qxg2) 22... Nxf3 23. Rxh2 Nxh2)  (21... Ng3+ 22. Kd2 (22. Ke1 Qg1+ 23. Kd2 Qxf2+
+24. Qxf2 Ne4+ 25. Ke1 Nxf2 26. Kxf2 { This variation doesn't seem to do anything
+more than trading off queens and knights, but I didn't like the idea of
+neglecting the e5 pawn. I preferred to keep my queens on the board and somehow
+force the d4 pawn to fall. })) 22. Nxa5 { This just lets the black rook in, and
+seal's white's fate. } { [%clk 0:26:54] } (22. Nxe4 fxe4 23. Qh3 (23. Qg4) 23...
+Qf4) 22... Rxb2 { [%clk 0:16:55] } 23. Rc1 { [%clk 0:27:09] } 23... Qh6 { Happy
+to re-maneuver my queen out of that tight corner. At this time it comes with a
+very strong threat on the Rc1 and d2+. } { [%clk 0:16:56] } 24. Rh1 { Now mate
+is forced in 4. } { [%clk 0:26:52] } 24... Qd2+ { [%clk 0:16:43] } (24... Rxc2+
+25. Ke1 (25. Kd1 Qc1 #)  (25. Kf1 Qc1+ 26. Nd1 Nd2+ 27. Kf2 Nxf3+) 25... Qc1+
+(25... Qd2+ 26. Kf1 Rc1+ 27. Nd1 Rxd1+ 28. Qxd1 Qxd1#)) 25. Kf1 { [%clk 0:27:11]
+} 25... Rb1+ { [%clk 0:17:01] } 26. Nd1 { [%clk 0:27:27] } 26... Rxd1+ { [%clk
+0:17:28] } 27. Qxd1 { [%clk 0:27:48] } 27... Qxd1# { 0-1 Black wins by
+checkmate. } { [%clk 0:17:27] } 0-1 
+0-1
 
 
