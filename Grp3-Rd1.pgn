@@ -3,7 +3,7 @@
 [Date "2022.02.21"]
 [Round "1"]
 [White "AfterEightTea"]
-[Black "Frank P Button"]
+[Black "Frank_P_Button"]
 [Result "1/2-1/2"]
 [Section "1400-1774"]
 [WhiteId "AfterEightTea#6039"]
@@ -48,7 +48,7 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "Darth Guinness"]
+[White "Darth_Guinness"]
 [Black "ChosenOverComer2"]
 [Result "1-0"]
 [Section "1400-1774"]
@@ -141,7 +141,7 @@
 [Date "2022.02.21"]
 [Round "1"]
 [White "khang421"]
-[Black "darth loulou"]
+[Black "darth_loulou"]
 [Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "its trudeau#0521"]
@@ -218,7 +218,7 @@
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "olfactory hues"]
+[White "olfactory_hues"]
 [Black "wocash"]
 [Result "1-0"]
 [Section "1400-1774"]
@@ -250,8 +250,8 @@
 [Date "2022.02.21"]
 [Round "1"]
 [White "portnoy311"]
-[Black "Pragathi 2008"]
-[Result "0-0"]
+[Black "Pragathi_2008"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "portnoy31191#5993"]
 [BlackId "ProChessABC#6770"]
@@ -259,7 +259,7 @@
 [BlackElo "1586"]
 
 {[%SevillaID "2507"]}
-0-0
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -344,7 +344,7 @@
 [Round "1"]
 [White "Wyeth-Miller"]
 [Black "Anthammer"]
-[Result "0-1"]
+[Result "0-0"]
 [Section "1400-1774"]
 [WhiteId "Wyeth#7929"]
 [BlackId "Ant_Rundle"]
@@ -352,13 +352,13 @@
 [BlackElo "1630"]
 
 {[%SevillaID "2495"]}
-0-1
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
 [Date "2022.02.21"]
 [Round "1"]
-[White "yaR 33"]
+[White "yaR_33"]
 [Black "LJFLJF"]
 [Result "0-1"]
 [Section "1400-1774"]
