@@ -2,31 +2,47 @@
 [Site ""]
 [Date "2022.02.28"]
 [Round "2"]
+[White "Constantine73"]
+[Black "vsd328"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "Constantine (1211)"]
+[WhiteElo "1856"]
+[BlackElo "2154"]
+
+{[%SevillaID "2581"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.28"]
+[Round "2"]
+[White "KF_91"]
+[Black "iridescentmollusc"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "KF_91"]
+[BlackId "LouisBoBo#4702"]
+[WhiteElo "1822"]
+[BlackElo "1881"]
+
+{[%SevillaID "2582"]}
+0-1
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.28"]
+[Round "2"]
 [White "KingSideInvasion"]
 [Black "gustafsson_student"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1775+"]
 [BlackId "legion#4516"]
 [WhiteElo "1958"]
 [BlackElo "2150"]
 
 {[%SevillaID "2576"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.28"]
-[Round "2"]
-[White "rjawa"]
-[Black "MajorBatata"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "rjawa#8992"]
-[WhiteElo "1796"]
-[BlackElo "2012"]
-
-{[%SevillaID "2577"]}
-*
+1/2-1/2
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -43,6 +59,21 @@
 
 {[%SevillaID "2578"]}
 *
+
+[Event "2022 January/February Dojo Classical"]
+[Site ""]
+[Date "2022.02.28"]
+[Round "2"]
+[White "rjawa"]
+[Black "MajorBatata"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "rjawa#8992"]
+[WhiteElo "1796"]
+[BlackElo "2012"]
+
+{[%SevillaID "2577"]}
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -65,44 +96,13 @@
 [Round "2"]
 [White "wkxz"]
 [Black "davalb"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [BlackId "Ding Liren #8638"]
 [WhiteElo "1972"]
 [BlackElo "1969"]
 
 {[%SevillaID "2580"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.28"]
-[Round "2"]
-[White "Constantine73"]
-[Black "vsd328"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Constantine (1211)"]
-[WhiteElo "1856"]
-[BlackElo "2154"]
-
-{[%SevillaID "2581"]}
-*
-
-[Event "2022 January/February Dojo Classical"]
-[Site ""]
-[Date "2022.02.28"]
-[Round "2"]
-[White "KF_91"]
-[Black "iridescentmollusc"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "KF_91"]
-[BlackId "LouisBoBo#4702"]
-[WhiteElo "1822"]
-[BlackElo "1881"]
-
-{[%SevillaID "2582"]}
-*
+0-1
 
 
