@@ -180,7 +180,7 @@
 [Round "2"]
 [White "Seth_Lichtenstein"]
 [Black "1Elliot"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "Seth_Lichtenstein#2638"]
 [BlackId "ElliotP#2014"]
@@ -188,7 +188,7 @@
 [BlackElo "1741"]
 
 {[%SevillaID "2526"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]

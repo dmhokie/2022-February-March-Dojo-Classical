@@ -36,7 +36,7 @@
 [Round "2"]
 [White "thorsthunderr"]
 [Black "Anthammer"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [WhiteId "thorsthunder#4308"]
 [BlackId "Ant_Rundle"]
@@ -44,7 +44,7 @@
 [BlackElo "1630"]
 
 {[%SevillaID "2570"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -331,14 +331,14 @@
 [Round "2"]
 [White "Zevy06"]
 [Black "WhiteDrake"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "Normy#1832"]
 [WhiteElo "1409"]
 [BlackElo "1616"]
 
 {[%SevillaID "2572"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]

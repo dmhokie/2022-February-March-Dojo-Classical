@@ -20,7 +20,7 @@
 [Round "2"]
 [White "Ashhamm"]
 [Black "winehoarder"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [WhiteId "Lief#6826"]
 [BlackId "#winehoarder"]
@@ -28,7 +28,7 @@
 [BlackElo "604"]
 
 {[%SevillaID "2536"]}
-*
+0-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -84,14 +84,14 @@
 [Round "2"]
 [White "covidsampler"]
 [Black "Lemongamerchess"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [BlackId "NA"]
 [WhiteElo "1318"]
 [BlackElo "1040"]
 
 {[%SevillaID "2542"]}
-*
+0-1
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
@@ -130,7 +130,7 @@
 [Round "2"]
 [White "GM_Baka_Mitai"]
 [Black "mahdi_hasan"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "GM_Baka_Mitai#6430"]
 [BlackId "some random guy#2901"]
@@ -138,7 +138,7 @@
 [BlackElo "613"]
 
 {[%SevillaID "2550"]}
-*
+1-0
 
 [Event "2022 January/February Dojo Classical"]
 [Site ""]
