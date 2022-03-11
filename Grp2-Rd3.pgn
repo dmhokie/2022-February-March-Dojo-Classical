@@ -36,7 +36,7 @@
 [Round "3"]
 [White "brian1729"]
 [Black "Diadochokinetic"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "antler killer(Brian)#5031"]
 [BlackId "Diadochokinetic#7133"]
@@ -44,7 +44,7 @@
 [BlackElo "1352"]
 
 {[%SevillaID "2586"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -99,14 +99,14 @@
 [Round "3"]
 [White "gpetris"]
 [Black "RussTay73"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [BlackId "RussTay73 #3612"]
 [WhiteElo "1284"]
 [BlackElo "1102"]
 
 {[%SevillaID "2588"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -114,7 +114,7 @@
 [Round "3"]
 [White "Halgilde"]
 [Black "Tidial"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "Halgilde#5362"]
 [BlackId "Tidial#1816"]
@@ -122,7 +122,7 @@
 [BlackElo "1284"]
 
 {[%SevillaID "2585"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -130,7 +130,7 @@
 [Round "3"]
 [White "hola2world"]
 [Black "sasha12o"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1400"]
 [WhiteId "hola2world#7247"]
 [BlackId "sasha12o#3784"]
@@ -138,7 +138,7 @@
 [BlackElo "1210"]
 
 {[%SevillaID "2591"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -241,7 +241,7 @@
 [Round "3"]
 [White "realraptor"]
 [Black "sinewave13"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1400"]
 [WhiteId "realraptor # 2628"]
 [BlackId "sinewave#1474"]
@@ -249,7 +249,7 @@
 [BlackElo "1303"]
 
 {[%SevillaID "2584"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]

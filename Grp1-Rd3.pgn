@@ -36,7 +36,7 @@
 [Round "3"]
 [White "BCGolem"]
 [Black "scottpost"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "BCGolem#9594"]
 [BlackId "ScottMcC"]
@@ -44,7 +44,7 @@
 [BlackElo "1695"]
 
 {[%SevillaID "2639"]}
-*
+1/2-1/2
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -52,7 +52,7 @@
 [Round "3"]
 [White "Clarkp56"]
 [Black "yaR_33"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "Clarkp56 (#9024)"]
 [BlackId "yaR_33#0033"]
@@ -60,7 +60,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "2640"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -115,7 +115,7 @@
 [Round "3"]
 [White "Pauli3141"]
 [Black "scaccus_africanus"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Pauli#4131"]
 [BlackId "sjwsparks #5276"]
@@ -123,7 +123,7 @@
 [BlackElo "1756"]
 
 {[%SevillaID "2638"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -131,7 +131,7 @@
 [Round "3"]
 [White "Renek13"]
 [Black "backrankbrawler"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "Renek#6846"]
 [BlackId "backrankbrawler#4978"]
@@ -139,7 +139,7 @@
 [BlackElo "1859"]
 
 {[%SevillaID "2633"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
