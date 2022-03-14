@@ -4,7 +4,7 @@
 [Round "3"]
 [White "AFMhughes"]
 [Black "Cartier Tank"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "henricum#0834"]
 [BlackId "Cartier tank#3152"]
@@ -12,7 +12,7 @@
 [BlackElo "1895"]
 
 {[%SevillaID "2637"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -20,7 +20,7 @@
 [Round "3"]
 [White "AfterEightTea"]
 [Black "1Elliot"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [WhiteId "AfterEightTea#6039"]
 [BlackId "ElliotP#2014"]
@@ -28,7 +28,7 @@
 [BlackElo "1741"]
 
 {[%SevillaID "2642"]}
-*
+1/2-1/2
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -68,7 +68,7 @@
 [Round "3"]
 [White "joeldick"]
 [Black "falk312"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "joel#7861"]
 [BlackId "falk#8401"]
@@ -76,7 +76,7 @@
 [BlackElo "1831"]
 
 {[%SevillaID "2635"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -84,14 +84,14 @@
 [Round "3"]
 [White "kyle_b81"]
 [Black "Capa_a"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "Verified"]
 [BlackId "ChessDad#0536"]
 [WhiteElo "1430"]
 [BlackElo "1448"]
 
 {[%SevillaID "2641"]}
-*
+1/2-1/2
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -99,7 +99,7 @@
 [Round "3"]
 [White "lootikfc"]
 [Black "rjawa"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "lootikfc#0672"]
 [BlackId "rjawa#8992"]
@@ -107,7 +107,7 @@
 [BlackElo "1796"]
 
 {[%SevillaID "2634"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -147,7 +147,7 @@
 [Round "3"]
 [White "Seth_Lichtenstein"]
 [Black "nargaef"]
-[Result "*"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "Seth_Lichtenstein#2638"]
 [BlackId "morphyfanLL#8385"]
@@ -155,7 +155,7 @@
 [BlackElo "1629"]
 
 {[%SevillaID "2643"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -163,7 +163,7 @@
 [Round "3"]
 [White "sriracha"]
 [Black "hluebb"]
-[Result "*"]
+[Result "1-0"]
 [Section "Verified"]
 [WhiteId "dfan#0341"]
 [BlackId "Namor#3094"]
@@ -171,6 +171,6 @@
 [BlackElo "1360"]
 
 {[%SevillaID "2636"]}
-*
+1-0
 
 
