@@ -2,6 +2,53 @@
 [Site ""]
 [Date "2022.03.14"]
 [Round "4"]
+[White "davalb"]
+[Black "vsd328"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "Ding Liren #8638"]
+[WhiteElo "1969"]
+[BlackElo "2154"]
+
+{[%SevillaID "2646"]}
+1-0
+
+[Event "2022 February/March Dojo Classical"]
+[Site ""]
+[Date "2022.03.14"]
+[Round "4"]
+[White "gustafsson_student"]
+[Black "Tacify"]
+[Result "1-0"]
+[Section "1775+"]
+[WhiteId "legion#4516"]
+[BlackId "Vladimir.#9546"]
+[WhiteElo "2150"]
+[BlackElo "1812"]
+
+{[%SevillaID "2647"]}
+1-0
+
+[Event "2022 February/March Dojo Classical"]
+[Site ""]
+[Date "2022.03.14"]
+[Round "4"]
+[White "iridescentmollusc"]
+[Black "lessixvii"]
+[Result "0-1"]
+[Section "1775+"]
+[WhiteId "LouisBoBo#4702"]
+[BlackId "sVnteen#5771"]
+[WhiteElo "1881"]
+[BlackElo "2019"]
+
+{[%SevillaID "2648"]}
+0-1
+
+[Event "2022 February/March Dojo Classical"]
+[Site ""]
+[Date "2022.03.14"]
+[Round "4"]
 [White "KingSideInvasion"]
 [Black "MajorBatata"]
 [Result "*"]
@@ -10,53 +57,6 @@
 [BlackElo "2012"]
 
 {[%SevillaID "2645"]}
-*
-
-[Event "2022 February/March Dojo Classical"]
-[Site ""]
-[Date "2022.03.14"]
-[Round "4"]
-[White "davalb"]
-[Black "vsd328"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "Ding Liren #8638"]
-[WhiteElo "1969"]
-[BlackElo "2154"]
-
-{[%SevillaID "2646"]}
-*
-
-[Event "2022 February/March Dojo Classical"]
-[Site ""]
-[Date "2022.03.14"]
-[Round "4"]
-[White "gustafsson_student"]
-[Black "Tacify"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "legion#4516"]
-[BlackId "Vladimir.#9546"]
-[WhiteElo "2150"]
-[BlackElo "1812"]
-
-{[%SevillaID "2647"]}
-*
-
-[Event "2022 February/March Dojo Classical"]
-[Site ""]
-[Date "2022.03.14"]
-[Round "4"]
-[White "iridescentmollusc"]
-[Black "lessixvii"]
-[Result "*"]
-[Section "1775+"]
-[WhiteId "LouisBoBo#4702"]
-[BlackId "sVnteen#5771"]
-[WhiteElo "1881"]
-[BlackElo "2019"]
-
-{[%SevillaID "2648"]}
 *
 
 [Event "2022 February/March Dojo Classical"]
@@ -96,13 +96,13 @@
 [Round "4"]
 [White "wkxz"]
 [Black "Constantine73"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [BlackId "Constantine (1211)"]
 [WhiteElo "1972"]
 [BlackElo "1856"]
 
 {[%SevillaID "2651"]}
-*
+1-0
 
 
