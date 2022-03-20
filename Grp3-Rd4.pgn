@@ -50,14 +50,14 @@
 [Round "4"]
 [White "Dan-Jon"]
 [Black "Kirk0536"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "Moka Efti #3195"]
 [WhiteElo "1627"]
 [BlackElo "1530"]
 
 {[%SevillaID "2793"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -111,7 +111,7 @@
 [Round "4"]
 [White "hubksrt"]
 [Black "chess_fiend"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "hubskrt#6297"]
 [BlackId "N/A"]
@@ -119,7 +119,7 @@
 [BlackElo "1706"]
 
 {[%SevillaID "2790"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -142,7 +142,7 @@
 [Round "4"]
 [White "knightOwl_333"]
 [Black "johngdon"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "Shaun Pinto#3987"]
 [BlackId "johngdon #8799"]
@@ -150,7 +150,7 @@
 [BlackElo "1638"]
 
 {[%SevillaID "2802"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
