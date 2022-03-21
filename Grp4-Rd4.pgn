@@ -65,14 +65,14 @@
 [Round "4"]
 [White "musiclife"]
 [Black "sweetiepawn"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "AngelOfMusic#4626"]
 [WhiteElo "1800"]
 [BlackElo "1828"]
 
 {[%SevillaID "2649"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -80,7 +80,7 @@
 [Round "4"]
 [White "SpeedRunth"]
 [Black "KF_91"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [WhiteId "el_Derty"]
 [BlackId "KF_91"]
@@ -88,7 +88,7 @@
 [BlackElo "1822"]
 
 {[%SevillaID "2650"]}
-*
+0-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]

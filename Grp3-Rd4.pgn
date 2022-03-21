@@ -173,7 +173,7 @@
 [Round "4"]
 [White "nordovic"]
 [Black "Wyeth-Miller"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "nordovic#6249"]
 [BlackId "Wyeth#7929"]
@@ -181,7 +181,7 @@
 [BlackElo "1500"]
 
 {[%SevillaID "2808"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -252,7 +252,7 @@
 [Round "4"]
 [White "thorsthunderr"]
 [Black "Anthammer"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [WhiteId "thorsthunder#4308"]
 [BlackId "Ant_Rundle"]
@@ -260,7 +260,7 @@
 [BlackElo "1630"]
 
 {[%SevillaID "2807"]}
-*
+0-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -268,7 +268,7 @@
 [Round "4"]
 [White "tinglylawyer"]
 [Black "pandaTT"]
-[Result "*"]
+[Result "0-0"]
 [Section "1400-1774"]
 [WhiteId "mitz #1033"]
 [BlackId "pandaTT#8932"]
@@ -276,7 +276,7 @@
 [BlackElo "1584"]
 
 {[%SevillaID "2806"]}
-*
+0-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]

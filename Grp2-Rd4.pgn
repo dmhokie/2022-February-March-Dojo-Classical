@@ -111,7 +111,7 @@
 [Round "4"]
 [White "mahdi_hasan"]
 [Black "Itzael_ML"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [WhiteId "some random guy#2901"]
 [BlackId "Itzael#2872"]
@@ -119,7 +119,7 @@
 [BlackElo "1311"]
 
 {[%SevillaID "2741"]}
-*
+0-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -191,7 +191,7 @@
 [Round "4"]
 [White "Sunset_Steve"]
 [Black "rushin1919"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1400"]
 [WhiteId "SunsetSteve#1385"]
 [BlackId "rushindev#4579"]
@@ -199,7 +199,7 @@
 [BlackElo "777"]
 
 {[%SevillaID "2742"]}
-*
+0-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
