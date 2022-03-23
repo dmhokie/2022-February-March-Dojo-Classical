@@ -20,7 +20,7 @@
 [Round "1"]
 [White "Ricker"]
 [Black "BCGolem"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "Verified"]
 [WhiteId "rickerw #5570"]
 [BlackId "BCGolem#9594"]
@@ -28,7 +28,7 @@
 [BlackElo "1731"]
 
 {[%SevillaID "2463"]}
-0-0
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
