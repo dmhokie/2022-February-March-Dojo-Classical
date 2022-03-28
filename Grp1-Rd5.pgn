@@ -52,7 +52,7 @@
 [Round "5"]
 [White "hluebb"]
 [Black "Capa_a"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "Namor#3094"]
 [BlackId "ChessDad#0536"]
@@ -60,7 +60,7 @@
 [BlackElo "1448"]
 
 {[%SevillaID "2827"]}
-*
+0-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -115,7 +115,7 @@
 [Round "5"]
 [White "Seth_Lichtenstein"]
 [Black "Clarkp56"]
-[Result "*"]
+[Result "0-0"]
 [Section "Verified"]
 [WhiteId "Seth_Lichtenstein#2638"]
 [BlackId "Clarkp56 (#9024)"]
@@ -123,7 +123,7 @@
 [BlackElo "863"]
 
 {[%SevillaID "2830"]}
-*
+0-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
