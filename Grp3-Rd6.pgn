@@ -20,7 +20,7 @@
 [Round "6"]
 [White "chess_fiend"]
 [Black "olfactory_hues"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1400-1774"]
 [WhiteId "N/A"]
 [BlackId "DonLoco#1062"]
@@ -28,7 +28,7 @@
 [BlackElo "1520"]
 
 {[%SevillaID "2963"]}
-*
+1/2-1/2
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -36,14 +36,14 @@
 [Round "6"]
 [White "ChosenOverComer2"]
 [Black "bencf151"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [BlackId "bencf03#0147"]
 [WhiteElo "1458"]
 [BlackElo "1650"]
 
 {[%SevillaID "2973"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -51,14 +51,14 @@
 [Round "6"]
 [White "Dan-Jon"]
 [Black "talalma"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "Moka Efti #3195"]
 [WhiteElo "1627"]
 [BlackElo "1716"]
 
 {[%SevillaID "2967"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -81,14 +81,14 @@
 [Round "6"]
 [White "headcanon"]
 [Black "Frank_P_Button"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "zeedo#2403"]
 [WhiteElo "1541"]
 [BlackElo "1602"]
 
 {[%SevillaID "2966"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -96,7 +96,7 @@
 [Round "6"]
 [White "johngdon"]
 [Black "Safuya"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "johngdon #8799"]
 [BlackId "Safuya#7702"]
@@ -104,7 +104,7 @@
 [BlackElo "1577"]
 
 {[%SevillaID "2971"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -143,14 +143,14 @@
 [Round "6"]
 [White "LJFLJF"]
 [Black "sl0wth1nk3r"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1400-1774"]
 [BlackId "sl0wth1nk3r#2334"]
 [WhiteElo "1550"]
 [BlackElo "1588"]
 
 {[%SevillaID "2969"]}
-*
+1/2-1/2
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -174,7 +174,7 @@
 [Round "6"]
 [White "Oskar anton"]
 [Black "AfterEightTea"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "Ozzy #7876"]
 [BlackId "AfterEightTea#6039"]
@@ -182,7 +182,7 @@
 [BlackElo "1409"]
 
 {[%SevillaID "2979"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -190,7 +190,7 @@
 [Round "6"]
 [White "picaveli"]
 [Black "alive50"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "pshirak#3340"]
 [BlackId "alive50"]
@@ -198,7 +198,7 @@
 [BlackElo "1620"]
 
 {[%SevillaID "2980"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -236,13 +236,13 @@
 [Round "6"]
 [White "romarioremmy87"]
 [Black "iamjameel"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteElo "1451"]
 [BlackElo "1705"]
 
 {[%SevillaID "2976"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -250,7 +250,7 @@
 [Round "6"]
 [White "snapfirer"]
 [Black "khang421"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "okrandom#9974"]
 [BlackId "its trudeau#0521"]
@@ -258,7 +258,7 @@
 [BlackElo "1680"]
 
 {[%SevillaID "2965"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -266,7 +266,7 @@
 [Round "6"]
 [White "strangeQuark6"]
 [Black "Darth_Guinness"]
-[Result "*"]
+[Result "1-0"]
 [Section "1400-1774"]
 [WhiteId "strangeQuark6#1821"]
 [BlackId "patkelly1974#6176"]
@@ -274,7 +274,7 @@
 [BlackElo "1629"]
 
 {[%SevillaID "2964"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -298,7 +298,7 @@
 [Round "6"]
 [White "wocash"]
 [Black "atbeaty"]
-[Result "*"]
+[Result "0-1"]
 [Section "1400-1774"]
 [WhiteId "wocash#0760"]
 [BlackId "atbeaty#4969"]
@@ -306,7 +306,7 @@
 [BlackElo "1460"]
 
 {[%SevillaID "2968"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
