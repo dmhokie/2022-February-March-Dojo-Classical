@@ -34,14 +34,14 @@
 [Round "6"]
 [White "musiclife"]
 [Black "MajorBatata"]
-[Result "*"]
+[Result "1-0"]
 [Section "1775+"]
 [WhiteId "AngelOfMusic#4626"]
 [WhiteElo "1800"]
 [BlackElo "2012"]
 
 {[%SevillaID "2993"]}
-*
+1-0
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -49,14 +49,14 @@
 [Round "6"]
 [White "iridescentmollusc"]
 [Black "wkxz"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [WhiteId "LouisBoBo#4702"]
 [WhiteElo "1881"]
 [BlackElo "1972"]
 
 {[%SevillaID "2994"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -64,14 +64,14 @@
 [Round "6"]
 [White "sweetiepawn"]
 [Black "KF_91"]
-[Result "*"]
+[Result "0-1"]
 [Section "1775+"]
 [BlackId "KF_91"]
 [WhiteElo "1828"]
 [BlackElo "1822"]
 
 {[%SevillaID "2995"]}
-*
+0-1
 
 [Event "2022 February/March Dojo Classical"]
 [Site ""]
@@ -79,7 +79,7 @@
 [Round "6"]
 [White "SpeedRunth"]
 [Black "Constantine73"]
-[Result "*"]
+[Result "0-0"]
 [Section "1775+"]
 [WhiteId "el_Derty"]
 [BlackId "Constantine (1211)"]
@@ -87,6 +87,6 @@
 [BlackElo "1856"]
 
 {[%SevillaID "2996"]}
-*
+0-0
 
 
